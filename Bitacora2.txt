@@ -1,0 +1,29 @@
+Minuta:
+
+En la sesión con Gibran abordamos el tema de los alcances con el proyecto
+original, se determinaron 3 hipotesis.
+
+Tema: Qué negocios de nueva creación van a tener éxito?
+
+Hipotésis:
+1. Qué factores pueden servir para determinar "éxito"?
+2. El número de competidores en una determinada zona pueden impactar al éxito?
+3. La densidad poblacional puede impactar en el éxito?
+4. La industria impacta en el éxito?
+
+Acciones:
+1. Definir éxito
+2. Generar hipotésis
+3. Generar acciones
+   3.1. Descargar datos
+   3.2. Limpieza de datos
+   3.3. Obtener el valor objetivo, exitoso o no
+   3.4. Agrupar por empresa RFC
+   3.5. Obtener resultado, enfocados a empresas de nueva creación
+   3.6. Obtener data limpia con éxito
+   3.7. Validar hipotésis
+
+
+
+
+
